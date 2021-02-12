@@ -65,10 +65,10 @@ let score = 0;
 
 
 
-title.innerHTML = "1.   Which American president appears on a one dollar bill?";
-aa1.innerHTML = "George Washington";
-aa2.innerHTML = "Thomas Jefferson";
-aa3.innerHTML = "James Madison";
+title.innerHTML = "1.   How many books are there in the Bible?";
+aa1.innerHTML = "66";
+aa2.innerHTML = "76";
+aa3.innerHTML = "96";
 
 aa1.onclick = function(){
     aa1.style.color = 'green';
@@ -93,10 +93,10 @@ aa3.onclick = function(){
 
 
 
-title2.innerHTML = "2.   What color is the \"Ex\" in FedEx Ground?";
-ba1.innerHTML = "Orange";
-ba2.innerHTML = "Green";
-ba3.innerHTML = "Purple";
+title2.innerHTML = "2.  What does the word “Pentateuch” mean?";
+ba1.innerHTML = "5 Laws";
+ba2.innerHTML = "5 Books";
+ba3.innerHTML = "5 Teachings";
 
 ba1.onclick = function(){
     ba2.style.color = 'green';
@@ -122,10 +122,10 @@ ba3.onclick = function(){
 
 
 
-title3.innerHTML = "3.   Of what is Cynophobia the fear?";
-ca1.innerHTML = "Snakes";
-ca2.innerHTML = "Cats";
-ca3.innerHTML = "Dogs";
+title3.innerHTML = "3.  How many books are in the New Testament?";
+ca1.innerHTML = "25";
+ca2.innerHTML = "39";
+ca3.innerHTML = "27";
 
 ca1.onclick = function(){
     ca3.style.color = 'green';
@@ -149,10 +149,10 @@ ca3.onclick = function(){
 }
 
 
-title4.innerHTML = "4.   When did the website \"Facebook\" launch?";
-da1.innerHTML = "2002";
-da2.innerHTML = "2003";
-da3.innerHTML = "2004";
+title4.innerHTML = "4.   What does the word \"Testament\" literally mean?";
+da1.innerHTML = "Testimony";
+da2.innerHTML = "Story";
+da3.innerHTML = "Covenant";
 
 da1.onclick = function(){
     da3.style.color = 'green';
@@ -176,10 +176,10 @@ da3.onclick = function(){
 }
 
 
-title5.innerHTML = "5.   Where did the pineapple plant originate?";
-ea1.innerHTML = "South America";
-ea2.innerHTML = "North America";
-ea3.innerHTML = "Africa";
+title5.innerHTML = "5.   What is the 3rd section of the Old Testament?";
+ea1.innerHTML = "Poetry/Wisdom";
+ea2.innerHTML = "History";
+ea3.innerHTML = "Prophecy";
 
 ea1.onclick = function(){
     ea1.style.color = 'green';
@@ -204,10 +204,10 @@ ea3.onclick = function(){
 
 
 
-title6.innerHTML = "6.   What year was Queen Elizabeth II born?";
-fa1.innerHTML = "1924";
-fa2.innerHTML = "1926";
-fa3.innerHTML = "1928";
+title6.innerHTML = "6.   How many books are in the Old Testament?";
+fa1.innerHTML = "49";
+fa2.innerHTML = "39";
+fa3.innerHTML = "52";
 
 fa1.onclick = function(){
     fa2.style.color = 'green';
@@ -232,10 +232,10 @@ fa3.onclick = function(){
 
 
 
-title7.innerHTML = "7.   Nephelococcygia is the practice of doing what?";
-ga1.innerHTML = "Finding shapes in clouds";
-ga2.innerHTML = "Searching for mushrooms";
-ga3.innerHTML = "Running for long distances";
+title7.innerHTML = "7.   What does the word \"Gospel\" mean?";
+ga1.innerHTML = "Good News";
+ga2.innerHTML = "Great News";
+ga3.innerHTML = "Go Tell";
 
 ga1.onclick = function(){
     ga1.style.color = 'green';
@@ -259,10 +259,10 @@ ga3.onclick = function(){
 }
 
 
-title8.innerHTML = "8.   Which of these characters turned 40 years old in 1990?";
-ha1.innerHTML = "Fred Flinstone";
-ha2.innerHTML = "Bugs Bunny";
-ha3.innerHTML = "Charlie Brown";
+title8.innerHTML = "8.   Approximately how many years were between the Old and New Testaments?";
+ha1.innerHTML = "100 Years";
+ha2.innerHTML = "250 Years";
+ha3.innerHTML = "400 Years";
 
 ha1.onclick = function(){
     ha3.style.color = 'green';
@@ -286,10 +286,10 @@ ha3.onclick = function(){
 }
 
 
-title9.innerHTML = "9.   In 1985, five percent of U.S. households had telephone answering machines. By 1990 what percentage of homes had answering machines?";
-ia1.innerHTML = "31%";
-ia2.innerHTML = "50%";
-ia3.innerHTML = "67%";
+title9.innerHTML = "9.   Which book is the New Testament book of History?";
+ia1.innerHTML = "Acts";
+ia2.innerHTML = "Romans";
+ia3.innerHTML = "Revelation";
 
 ia1.onclick = function(){
     ia1.style.color = 'green';
@@ -313,10 +313,10 @@ ia3.onclick = function(){
 }
 
 
-title10.innerHTML = "10.   What is the voltage of a D battery?";
-ja1.innerHTML = "0.5";
-ja2.innerHTML = "1.0";
-ja3.innerHTML = "1.5";
+title10.innerHTML = "10.   What does the word \"Canon\" literally mean in Bible context?";
+ja1.innerHTML = "Teaching Stick";
+ja2.innerHTML = "Divine Staff";
+ja3.innerHTML = "Measuring Rod";
 
 ja1.onclick = function(){
     ja3.style.color = 'green';
